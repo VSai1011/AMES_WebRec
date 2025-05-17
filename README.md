@@ -8,3 +8,4 @@ A responsive webpage for the Mechanical Engineers Club with:
 - Club logo and title
 - About section
 - Upcoming events list
+- To open the website use the link - https://vsai1011.github.io/AMES_WebRec/
